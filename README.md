@@ -11,6 +11,8 @@ My version of the application includes the following additional features:
 - 24-hour weather forecast
 - Background colors change depending on current temperature
 
+URL to live site: https://adoring-curie-163862.netlify.com/
+
 ### Learning objectives
 
 - What an API is and how to use it
