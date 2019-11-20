@@ -27,6 +27,11 @@ URL to live site: https://adoring-curie-163862.netlify.com/
 - CSS
 - Javascript
 
+### APIs used in this project
+
+- OpenWeather
+- Google Places
+
 ### Copyright
 
 &copy; Fredrik Tibbling 2019
