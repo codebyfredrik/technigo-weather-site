@@ -1,6 +1,6 @@
-# Project 6 - Build a weather web application (Week 6)
+# Project 6 - Weather site (Week 6)
 
-### Summary
+### 1. What is this?
 
 This week´s project (@ Technigo Boot Camp 2019) was to create a simple weather web application that shows today's weather and temperature and a weekly forecast, using a weather API.
 
@@ -11,9 +11,22 @@ My version of the application includes the following additional features:
 - 24-hour weather forecast
 - Background colors change depending on current temperature
 
-URL to live site: https://adoring-curie-163862.netlify.com/
+### 2. What did I do?
 
-### Learning objectives
+[TEXT]
+
+### 3. Technologies used
+
+- HTML
+- CSS
+- Javascript
+
+### 4. API's used
+
+- OpenWeather
+- Google Places
+
+### 5. Learning objectives
 
 - What an API is and how to use it
 - Basic JSON
@@ -21,17 +34,6 @@ URL to live site: https://adoring-curie-163862.netlify.com/
 - How to use promises in JavaScript
 - How to work with the Date() object in JavaScript
 
-### Technologies used in this project
+### 5. Where can you see it in action?
 
-- HTML
-- CSS
-- Javascript
-
-### APIs used in this project
-
-- OpenWeather
-- Google Places
-
-### Copyright
-
-&copy; Fredrik Tibbling 2019
+URL to live site: https://adoring-curie-163862.netlify.com/
