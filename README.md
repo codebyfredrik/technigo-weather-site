@@ -36,5 +36,4 @@ My version of the application includes the following additional features:
 
 ### 5. Where can you see it in action?
 
-URL to live site: https://adoring-curie-163862.netlify.com/ 
-                  
+URL to live site: https://vibrant-meitner-7a6bd9.netlify.com/
