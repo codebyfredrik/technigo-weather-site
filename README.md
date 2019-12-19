@@ -1,10 +1,10 @@
 # Project 6 - Weather site
 
-### What is this?
+### Summary
 
 A weather site that displays current weather and 24-hour forecast for locations around the world.
 
-### What did I do?
+### Implementation details
 
 This week´s project (@ Technigo Boot Camp 2019) was to create a simple weather web application that shows today's weather and temperature and a weekly forecast, using a weather API.
 
