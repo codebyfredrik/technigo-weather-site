@@ -21,7 +21,7 @@ My version of the application includes the following additional features:
 - CSS
 - Javascript
 
-### API's used
+### APIs used
 
 - OpenWeather
 - Google Places
