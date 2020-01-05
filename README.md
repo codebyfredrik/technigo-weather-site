@@ -15,7 +15,7 @@ I decided to implement the following features:
 - Current weather
 - 24-hour weather forecast (becomes visible at min-width 832px)
 - 5-day weather forecast (presented with less information below min-width 832px)
-- Flexbox and CSS Grids have been used to handle some parts of the responsiveness of the site.
+- Flexbox and CSS Grids have been used to handle some parts of the responsiveness of the site
 - The linear background colors change in the following intervals:
   - Warm: Temp > 20 degree C
   - Medium Temp >= 10 degree C
