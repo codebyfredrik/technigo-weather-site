@@ -1,4 +1,4 @@
-# Project 6 - Weather site
+# Weather site
 
 ### Summary
 
@@ -6,7 +6,7 @@ A weather site that displays current weather and 24-hour forecast for locations 
 
 ### Implementation details
 
-In this project I created a weather site with JavaScript, CSS and HTML.
+I have created a weather site with JavaScript, CSS and HTML.
 
 I decided to implement the following features:
 
@@ -31,14 +31,6 @@ I decided to implement the following features:
 
 - OpenWeather
 - Google Places
-
-### Learning objectives
-
-- What an API is and how to use it
-- Basic JSON
-- How to use fetch() in Javascript
-- How to use promises in JavaScript
-- How to work with the Date() object in JavaScript
 
 ### Where can you see the site in action?
 
