@@ -8,7 +8,7 @@ A weather site that displays current weather and 24-hour forecast for locations 
 
 I have created a weather site with JavaScript, CSS and HTML.
 
-I decided to implement the following features:
+The following features have been implemented:
 
 - Location search
 - Location search is saved in local storage and used as default location when the user revisits the site
