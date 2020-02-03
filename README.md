@@ -1,4 +1,4 @@
-# Weather site
+# Weather site with JavaScript
 
 ### Summary
 
