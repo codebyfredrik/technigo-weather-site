@@ -25,6 +25,7 @@ The following features have been implemented:
 
 - JavaScript
 - CSS
+- Moment
 - HTML
 
 ### APIs used
