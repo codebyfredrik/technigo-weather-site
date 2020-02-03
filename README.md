@@ -24,8 +24,8 @@ The following features have been implemented:
 ### Technologies used
 
 - JavaScript
-- CSS
 - Moment
+- CSS
 - HTML
 
 ### APIs used
